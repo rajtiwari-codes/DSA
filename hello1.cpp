@@ -36,8 +36,7 @@ int main() {
      double k=2.0/5;
      cout<<k<<endl;
 
-
-
     cout << "Hello Raaz";
+    
     return 0;
 }
