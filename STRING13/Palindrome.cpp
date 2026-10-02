@@ -14,7 +14,7 @@ int getlength(char ch[]){
     return count;
 
 }
-char tolowercase(char ch){//ch array ka name hai and n --->size
+char tolowercase(char ch){//ch array ka name hai 
    
         if(ch>='a' && ch<='z'){
             return ch;
