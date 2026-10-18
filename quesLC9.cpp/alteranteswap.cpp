@@ -5,7 +5,7 @@ using namespace std;
 
     void swapp(int arr[],int n){
         int i=0;
-        while(i<n-1){
+        while(i<n-1){//to check next eklemt are present in range or not
             swap(arr[i],arr[i+1]);
             i=i+2;
         }

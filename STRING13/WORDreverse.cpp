@@ -8,6 +8,7 @@ int getleng(char ch[]){
     }
     return count;
 }
+//purrre ko revese karaya
 void reverse(char a[], int start, int end) {
     while(start < end) {
         swap(a[start], a[end]);

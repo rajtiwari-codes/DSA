@@ -18,7 +18,7 @@ int main(){
      }
 
      set<int>::iterator it =s.begin();//iterator name as -->it and start stati 0 index
-     it++;// 1 increse kiya hence 2 elemt are deleted
+     it++;// 1 increse kiya hence 2nd elemt are deleted
      s.erase(it);//delete 
       for(auto i:s){
       cout<<i<<endl;
