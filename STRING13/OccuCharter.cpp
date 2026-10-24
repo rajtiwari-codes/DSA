@@ -26,8 +26,6 @@ for(int i=0;i<26;i++){
 return 'a'+ans;//convert the string in alpha
 
 }
-
-
 int main(){
     string s;
     cin>>s;
